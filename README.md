@@ -18,13 +18,7 @@
 </div>
 # WenXin-Starter
 
-# 📢 关于这个项目接下来的一些打算
-
-更新 2024/12/5:
-
-或许是的，正如一些用户所说的那样，这个项目已经完成了它的使命，在百度官方的sdk出现之前做了短暂的过渡，它应该拥有更加体面的结局。
-
-后面的设想我会新开一个项目。
+# 📢 此项目已停更，新项目请去 [AltEgo](https://github.com/altegox/AltEgo)
 
 
 # [ => 1.0版本链接](https://github.com/egmsia01/wenxin-starter/tree/master?tab=readme-ov-file)
