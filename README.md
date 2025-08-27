@@ -18,7 +18,7 @@
 </div>
 # WenXin-Starter
 
-# 📢 此项目已停更，新项目请去 [AltEgo](https://github.com/altegox/AltEgo)
+# 📢 此项目已停更，新项目请去 [koaks](https://github.com/koaks-ai/koaks-ai)
 
 
 # [ => 1.0版本链接](https://github.com/egmsia01/wenxin-starter/tree/master?tab=readme-ov-file)
